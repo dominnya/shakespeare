@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@fontsource-variable/manrope':
-    specifier: 5.0.20
-    version: 5.0.20
+    specifier: 5.2.8
+    version: 5.2.8
   '@phosphor-icons/vue':
     specifier: 2.2.1
     version: 2.2.1(vue@3.4.33)
@@ -1387,8 +1387,8 @@ packages:
     engines: {node: '>=14'}
     dev: true
 
-  /@fontsource-variable/manrope@5.0.20:
-    resolution: {integrity: sha512-LKL0aM0DxYj8i/zUTb5Nru0mS3YoezPZaeWY7aIxEKVX1xVBLpPHlFq0NoK2iUXhL6HoD0XMYwc6KVa8I/ayKg==}
+  /@fontsource-variable/manrope@5.2.8:
+    resolution: {integrity: sha512-nc9lOuCRz73UHnovDE2bwXUdghE2SEOc7Aii0qGe3CLyE03W1a7VnY5Z6euRiapiKbCkGS+eXbY3s/kvWeGeSw==}
     dev: false
 
   /@ioredis/commands@1.2.0:
